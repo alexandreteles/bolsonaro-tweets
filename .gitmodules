@@ -1,0 +1,2 @@
+[submodule "src/birdy"]
+	url = https://github.com/alexandreteles/birdy.git
