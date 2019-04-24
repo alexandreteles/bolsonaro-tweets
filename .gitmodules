@@ -1,2 +1,5 @@
 [submodule "src/birdy"]
 	url = https://github.com/alexandreteles/birdy.git
+[submodule "birdy3"]
+	path = birdy3
+	url = ./src/birdy3
